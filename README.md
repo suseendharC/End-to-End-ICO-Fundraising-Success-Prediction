@@ -1,5 +1,9 @@
 # 🚀 End-to-End ICO Fundraising Success Prediction
 
+## 🌐 Live Demo
+
+👉 https://ico-success-prediction.streamlit.app/
+
 An end-to-end Machine Learning project that predicts whether an Initial Coin Offering (ICO) fundraising campaign is likely to achieve its fundraising target using historical campaign data and supervised machine learning.
 
 ---
